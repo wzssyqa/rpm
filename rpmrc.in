@@ -249,10 +249,10 @@ arch_canon:	sh4a: sh4a	17
 arch_canon:	xtensa: xtensa	18
 arch_canon:	aarch64: aarch64 19
 
-arch_canon:	mipsr6: mipsr6	20
-arch_canon:	mipsr6el: mipsr6el	20
-arch_canon:	mips64r6: mips64r6	21
-arch_canon:	mips64r6el: mips64r6el	21
+arch_canon:	mipsr6: mipsisa32r6	20
+arch_canon:	mipsr6el: mipsisa32r6el	20
+arch_canon:	mips64r6: mipsisa64r6	21
+arch_canon:	mips64r6el: mipsisa64r6el	21
 
 arch_canon:	riscv: riscv64	22
 arch_canon:	riscv64: riscv64	22
